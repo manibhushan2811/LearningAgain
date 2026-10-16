@@ -1,4 +1,4 @@
-+print ("Mani")
+print ("Mani")
 
 a=8;
 b=5;
