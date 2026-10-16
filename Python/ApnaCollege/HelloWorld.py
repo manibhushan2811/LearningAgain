@@ -3,4 +3,4 @@
 a=8;
 b=5;
 a+b;
-print (a+b+c)+d;
+print (a+b);
